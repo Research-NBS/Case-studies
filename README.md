@@ -1,1 +1,1 @@
-\case studies/index.html
+index.html
